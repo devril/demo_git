@@ -1,3 +1,4 @@
 # demo_git
 Une demo de git
-Autres informations
+
+Autres informations pour la demo
